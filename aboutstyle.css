@@ -7,10 +7,8 @@ h1 {
   color: #CD5C5C; 
   text-align: center;
 }
-p#text1 
-{
-  color: (#FAEBD7);
-  text-align: (center);
-  font-size: (16px);
-  
+p {
+  color: #FAEBD7;
+  text-align: center;
+  font-size: 16px;
 }
