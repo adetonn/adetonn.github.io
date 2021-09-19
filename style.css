@@ -2,8 +2,8 @@
             body {
                  background-color: #8B4513;
                  }
-img {
-       align: center;
+h1, h2, p, img {
+       text-align: center;
 }
 
 
