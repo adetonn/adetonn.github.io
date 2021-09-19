@@ -2,8 +2,7 @@
             body {
                  background-color: #BC8F8F;
                  }
-#banner_all  {center:   margin-left: auto;
-  margin-right: auto;;}
+#banner_all  {center;}
 
 #nav-table { margin: 800px;}
 #nav-td {width: 200px; text-align: center;}
