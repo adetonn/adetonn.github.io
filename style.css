@@ -3,12 +3,12 @@
                  background-color: #DEB887;
                  }
 h1, h2, p, {
-       text-align: center;
+       text-align: "center";
 }
 
 .image-container {
-            width: 800px;
-            height: 200px;
-            text-align: center;
+            width: "800px";
+            height: "200px";
+            text-align: "center";
 }
 
