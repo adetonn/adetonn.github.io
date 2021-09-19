@@ -1,8 +1,10 @@
 
             body {
-                 background-color: #BC8F8F;
+                 background-color: #4d3319;
                  }
-#banner_all  {center;}
+#banner {
+            align: center;
+}
 
 #nav-table { margin: 800px;}
 #nav-td {width: 200px; text-align: center;}
