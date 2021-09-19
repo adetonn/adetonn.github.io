@@ -1,8 +1,8 @@
 body {
   background-image: url("dark wtr.jpg");
-  background-color: purple;
+
 }
-h1 { color: #CD5C5C; 
+h1 { 
+  color: #CD5C5C; 
   text-align: center;
-  background-color: black;
 }
