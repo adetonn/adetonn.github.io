@@ -3,6 +3,12 @@ body {
   color: #FAEBD7;
 }
 
+IMG.displayed {
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+}
+
 h1 { 
   color: #CD5C5C; 
   text-align: center;
