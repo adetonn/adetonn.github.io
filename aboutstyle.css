@@ -26,3 +26,8 @@ p {
 img {
   text-align: center;
 }
+
+table.center2 {
+            margin-left: auto;
+            margin-right:auto;
+}
