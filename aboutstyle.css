@@ -8,6 +8,10 @@ IMG.displayed {
             margin-left: auto;
             margin-right: auto;
 }
+table.center {
+            margin-left: auto;
+            margin-right:auto;
+}
 
 h1 { 
   color: #CD5C5C; 
